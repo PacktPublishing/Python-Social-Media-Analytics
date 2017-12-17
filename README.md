@@ -58,6 +58,3 @@ The code will look like the following:
 * [Mastering Social Media Mining with Python](https://www.packtpub.com/big-data-and-business-intelligence/mastering-social-media-mining-python?utm_source=github&utm_medium=repository&utm_campaign=9781783552016)
 
 * [Mastering Social Media Mining with R](https://www.packtpub.com/big-data-and-business-intelligence/mastering-social-media-mining-r?utm_source=github&utm_medium=repository&utm_campaign=9781784396312)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
